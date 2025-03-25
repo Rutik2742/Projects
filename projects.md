@@ -27,3 +27,6 @@
 
 9- BalantVida - https://balantvida.in/
     A modern e-commerce WordPress website designed for Balant Vida. It provides a seamless shopping experience with elegant product displays, user-friendly navigation, and a streamlined checkout process, enhancing customer satisfaction and engagement.
+
+10- AGeD - https://ageddentistry.org/
+    A well-structured WordPress website built for AGED Dentistry, an organization dedicated to providing specialized dental care. The site features a professional design, easy navigation, and comprehensive information about their services, ensuring a seamless experience for patients and visitors.
